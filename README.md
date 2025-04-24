@@ -30,3 +30,9 @@ train(trick) - Teaches the pet new tricks
 show_tricks() - Displays learned tricks
 
 get_status() - Prints the pet’s current condition
+
+
+
+Members 
+joely wafula
+
